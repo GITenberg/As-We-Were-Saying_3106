@@ -1,0 +1,33 @@
+_repo: As-We-Were-Saying_3106
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_issued: '2004-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+- GITenberg
+tableOfContents: Rose and chrysanthemum -- The red bonnet -- The loss in civilization
+  -- Social screaming -- Does refinement kill individuality? -- The directoire gown
+  -- The mystery of the sex -- The clothes of fiction -- The broad A -- Chewing gum
+  -- Women in Congress -- Shall women propose? -- Frocks and the stage -- Altruism
+  -- Social clearing-house -- Dinner-table talk -- Naturalization -- Art of governing
+  -- Love of display -- Value of the commonplace -- The burden of Christmas -- The
+  responsibility of writers -- The cap and gown -- A tendency of the age -- A locoed
+  novelist.
+title: As We Were Saying
+url: http://www.gutenberg.org/ebooks/3106
